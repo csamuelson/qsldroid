@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCadFootprints")(type "KiCad")(uri "C:/Users/chris/Documents/GitHub/kv4pinspired/Hardware/KiCadFootprints")(options "")(descr ""))
+)
