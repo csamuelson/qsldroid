@@ -1,0 +1,13 @@
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-F_Cu.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-In1_Cu.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-In2_Cu.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-B_Cu.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-F_Paste.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-B_Paste.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-F_Mask.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-B_Mask.gbr'.
+Plotted to 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\chris\Documents\GitHub\kv4pinspired\Hardware\MobileRadio\Gerber\MobileRadio-job.gbrjob'.
+Info: Done.
