@@ -1,2 +1,2 @@
-# kv4pinspired
+# QSL Droid
 kv4p inspired Android Radio Project
