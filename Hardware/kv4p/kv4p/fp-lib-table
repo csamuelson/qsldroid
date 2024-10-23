@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BackupProjects_spurious_personal_0_20241023")(type "KiCad")(uri "$(KIPRJMOD)/kv4p.pretty")(options "")(descr ""))
+)
